@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ergypsta.github.io/sitemap
+Sitemap: https://ergypsta.github.io/app/sitemap
+Sitemap: https://ergypsta.github.io/assets/sitemap
+Sitemap: https://ergypsta.github.io/css/sitemap
+Sitemap: https://ergypsta.github.io/includes/sitemap
+Sitemap: https://ergypsta.github.io/item/sitemap
+Sitemap: https://ergypsta.github.io/src/sitemap
